@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2026-09-24
+  Info:
+    - First release. Carries the sprite sheets and icons that used to ship inside LavaBlock, so that a release changing only recipes, balance or text no longer makes everyone download every machine again. Install LavaBlock; it requires this mod and this mod does nothing on its own

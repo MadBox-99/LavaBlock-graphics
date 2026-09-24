@@ -14,7 +14,8 @@
             ".git/**",
             ".gitignore",
             ".claude/**",
-            ".vscode/**"
+            ".vscode/**",
+            "README.md"
         ]
     }
 }
