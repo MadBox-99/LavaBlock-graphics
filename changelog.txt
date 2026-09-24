@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.1
+Date: ????
+  Graphics:
+    - New sprite sheets for the Gas Combiner, whose blower now turns in every direction the machine can face
+---------------------------------------------------------------------------------------------------
 Version: 0.2.0
 Date: 2026-09-24
   Info:
