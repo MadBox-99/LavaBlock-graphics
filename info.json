@@ -1,0 +1,20 @@
+{
+    "name": "LavaBlock-graphics",
+    "version": "0.2.0",
+    "title": "LavaBlock Graphics",
+    "author": "Zoltán Tamás Szabó",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base >= 2.0"
+    ],
+    "description": "Sprite sheets and icons for LavaBlock. It carries no prototypes and changes nothing on its own; install LavaBlock, which requires this mod. The pictures live here so that a release that only touches recipes, balance or text does not make everyone download eighty megabytes of unchanged machines again.",
+    "package": {
+        "git_publish_branch": "main",
+        "ignore": [
+            ".git/**",
+            ".gitignore",
+            ".claude/**",
+            ".vscode/**"
+        ]
+    }
+}
