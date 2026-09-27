@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.1
-Date: ????
+Date: 2026-09-27
   Graphics:
     - New sprite sheets for the Gas Combiner, whose blower now turns in every direction the machine can face
     - New icons for the Air Compressor and for straw
