@@ -2,11 +2,11 @@
 return {
   ["spritter"] = { 1, 8, 2 },
   ["file_count"] = 1,
-  ["height"] = 229,
+  ["height"] = 235,
   ["line_length"] = 4,
   ["lines_per_file"] = 4,
   ["scale"] = 0.5,
-  ["shift"] = {54 / 64, 20.5 / 64},
+  ["shift"] = {56 / 64, 23.5 / 64},
   ["sprite_count"] = 16,
-  ["width"] = 306,
+  ["width"] = 310,
 }
