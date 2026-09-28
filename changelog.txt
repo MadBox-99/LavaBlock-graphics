@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.3
-Date: ????
+Date: 2026-09-28
   Graphics:
     - Icons for lava slag and the six crystals grown from it - pyrite, obsidian, olivine, ruby, sapphire and diamond - each with a shape and a colour of its own, and one of all six together for the recipe that grows them
     - Icons for the Crystal Circuit Board, limestone, quicklime, slaked lime and lime mortar, for the calcium solution and carbon dioxide fluids, and for the Crystal Growing, Crystal Circuit Board and Limestone Processing technologies
