@@ -1,7 +1,13 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.4
 Date: ????
-  Changes:
+  Graphics:
+    - Icons for magnetite and the Magnetite Growing technology, which replace obsidian's
+    - Sprite sheets and icons for the Laser Cutter, rendered from a new model, and the Laser Cutting technology icon
+    - Icons for the quartz lens, silicon wafer, sapphire substrate and molten quartz
+    - New crystal growing recipe and technology icons: the five crystals growing out of a lump of slag, instead of laid out on a slab
+    - Technology icons rendered from the machine models for the Air Cooler and Advanced Lava Cooling, and a picture of columnar basalt in its lava for Basalt Casting. They replace the old pixel-art and screenshot pictures those three had
+    - Removed two pictures nothing used any more, an air compressor drawing and a stone brick
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.3
 Date: 2026-09-28
