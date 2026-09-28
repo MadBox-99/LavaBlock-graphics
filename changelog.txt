@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.4
-Date: ????
+Date: 2026-09-28
   Graphics:
     - Icons for magnetite and the Magnetite Growing technology, which replace obsidian's
     - Sprite sheets and icons for the Laser Cutter, rendered from a new model, and the Laser Cutting technology icon
