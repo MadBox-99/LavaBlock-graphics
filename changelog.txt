@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.5
-Date: ????
+Date: 2026-10-01
   Graphics:
     - Sprite sheets and icons for the Magma Reactor and the Magma Turbine, rendered from new models, each with a working light that glows while it runs
     - Icons for the magma cell, magma plasma and cold and hot molten salt, and the Magma Power technology icon
