@@ -1,7 +1,10 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.6
 Date: ????
-  Changes:
+  Graphics:
+    - Sprite sheets and icon for the Lithography Machine, rendered from a new model, with a working light on its plasma windows, laser source and exposure line
+    - Icons for the microchip, the laser source, cassiterite and tin plate, and the EUV Lithography technology icon
+    - Sprite sheets and icon for the Train Factory, rendered from a new model, with the vehicle on its track as a recipe-tinted layer
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.5
 Date: 2026-10-01
