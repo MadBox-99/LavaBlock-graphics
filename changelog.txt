@@ -7,6 +7,7 @@ Date: ????
     - Sprite sheets and icon for the Train Factory, rendered from a new model, with the vehicle on its track as a recipe-tinted layer
     - Sprite sheets and icon for the Coil Winder, rendered from a new model, with its coil turning, its guide carriage riding and its payoff spool unwinding
     - Icons for the ferrite magnet, the magnetic coil, the transformer and ferrofluid, and the Ferromagnetism technology icon
+    - Icons for twenty-one new fluids, recoloured from the gas plume and the fluid drop: volcanic gas, sulfur dioxide, hydrogen sulfide, hydrogen, nitrogen, methane, carbon monoxide, ethylene, neon and uranium hexafluoride; molten sulfur, glass, tin, steel and silicon; brine, sodium hydroxide, hydrochloric, nitric and hydrofluoric acid, and ferric chloride
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.5
 Date: 2026-10-01
