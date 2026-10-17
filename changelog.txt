@@ -13,6 +13,7 @@ Date: ????
     - Icons for stainless steel, manganese steel, brass, bronze and duralumin plate, solder and nichrome wire, recoloured from the base game's steel plate, plastic bar and copper cable
     - Icons for fourteen melts, recoloured from the fluid drop: molten lead, zinc, nickel, chromium, manganese, aluminium and magnesium, and molten brass, bronze, solder, stainless steel, manganese steel, nichrome and duralumin
     - Icons for borax and boron, rendered from new models, and the Boron Processing technology icon
+    - Icons for ilmenite, rendered from a new model, aluminium and vanadium plate stamped with their symbols, titanium alloy plate recoloured from the base game's steel plate, and titanium tetrachloride, molten sodium, titanium, vanadium and titanium alloy, recoloured from the fluid drop
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.5
 Date: 2026-10-01
