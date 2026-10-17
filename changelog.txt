@@ -10,6 +10,23 @@ Date: ????
     - Sprite sheets and icon for the Coil Winder, rendered from a new model, with its coil turning, its guide carriage riding and its payoff spool unwinding
     - Icons for the ferrite magnet, the magnetic coil, the transformer and ferrofluid, and the Ferromagnetism technology icon
     - Icons for twenty-one new fluids, recoloured from the gas plume and the fluid drop: volcanic gas, sulfur dioxide, hydrogen sulfide, hydrogen, nitrogen, methane, carbon monoxide, ethylene, neon and uranium hexafluoride; molten sulfur, glass, tin, steel and silicon; brine, sodium hydroxide, hydrochloric, nitric and hydrofluoric acid, and ferric chloride
+    - Sprite sheets and icon for the Arc Furnace, rendered from a new model, with its electrodes riding up and down, its transformer fan turning, and a working light on the electrode feet, the slag door and the tap spout, and the Electric Arc Smelting technology icon
+    - Icons for galena, sphalerite, pentlandite, chromite and alumina, and plate icons stamped with their symbols for lead, zinc, manganese and magnesium, rendered from new models, with the Sulfide Ores and Light Metals technology icons
+    - Icons for stainless steel, manganese steel, brass, bronze and duralumin plate, solder and nichrome wire, recoloured from the base game's steel plate, plastic bar and copper cable
+    - Icons for fourteen melts, recoloured from the fluid drop: molten lead, zinc, nickel, chromium, manganese, aluminium and magnesium, and molten brass, bronze, solder, stainless steel, manganese steel, nichrome and duralumin
+    - Icons for borax and boron, rendered from new models, and the Boron Processing technology icon
+    - Icons for ilmenite, rendered from a new model, aluminium and vanadium plate stamped with their symbols, titanium alloy plate recoloured from the base game's steel plate, and titanium tetrachloride, molten sodium, titanium, vanadium and titanium alloy, recoloured from the fluid drop
+    - Icons for monazite, cerium, neodymium, yttrium and phosphorus, nickel plate stamped with its symbol, and the neodymium magnet, rendered from new models, with the Rare Earth Processing technology icon
+    - Icons for cobalt plate stamped with its symbol, superalloy plate recoloured from the base game's steel plate, and molten superalloy
+    - Icons for anode slime, rendered from a new model, and silver, gold and platinum plate stamped with their symbols, with the Precious Metals technology icon
+    - Icon for nitrous oxide, recoloured from the gas plume
+    - Icons for potash and fertiliser, rendered from new models, and the Fertiliser technology icon
+    - Icons for krypton and xenon, recoloured from the gas plume
+    - Icons for radon, helium and helium-neon, recoloured from the gas plume
+    - Icon for excimer gas, recoloured from the gas plume
+    - Icon for ozone, recoloured from the gas plume
+    - Icons for propane and ethane, recoloured from the gas plume
+    - Icons for calcium carbide, rendered from a new model, and acetylene, recoloured from the gas plume
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.5
 Date: 2026-10-01
