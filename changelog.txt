@@ -12,6 +12,7 @@ Date: ????
     - Icons for galena, sphalerite, pentlandite, chromite and alumina, and plate icons stamped with their symbols for lead, zinc, manganese and magnesium, rendered from new models, with the Sulfide Ores and Light Metals technology icons
     - Icons for stainless steel, manganese steel, brass, bronze and duralumin plate, solder and nichrome wire, recoloured from the base game's steel plate, plastic bar and copper cable
     - Icons for fourteen melts, recoloured from the fluid drop: molten lead, zinc, nickel, chromium, manganese, aluminium and magnesium, and molten brass, bronze, solder, stainless steel, manganese steel, nichrome and duralumin
+    - Icons for borax and boron, rendered from new models, and the Boron Processing technology icon
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.5
 Date: 2026-10-01
