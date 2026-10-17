@@ -18,6 +18,7 @@ Date: ????
     - Icons for cobalt plate stamped with its symbol, superalloy plate recoloured from the base game's steel plate, and molten superalloy
     - Icons for anode slime, rendered from a new model, and silver, gold and platinum plate stamped with their symbols, with the Precious Metals technology icon
     - Icon for nitrous oxide, recoloured from the gas plume
+    - Icons for potash and fertiliser, rendered from new models, and the Fertiliser technology icon
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.5
 Date: 2026-10-01
