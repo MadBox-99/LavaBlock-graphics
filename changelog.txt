@@ -17,6 +17,7 @@ Date: ????
     - Icons for monazite, cerium, neodymium, yttrium and phosphorus, nickel plate stamped with its symbol, and the neodymium magnet, rendered from new models, with the Rare Earth Processing technology icon
     - Icons for cobalt plate stamped with its symbol, superalloy plate recoloured from the base game's steel plate, and molten superalloy
     - Icons for anode slime, rendered from a new model, and silver, gold and platinum plate stamped with their symbols, with the Precious Metals technology icon
+    - Icon for nitrous oxide, recoloured from the gas plume
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.5
 Date: 2026-10-01
