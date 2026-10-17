@@ -22,6 +22,7 @@ Date: ????
     - Icons for krypton and xenon, recoloured from the gas plume
     - Icons for radon, helium and helium-neon, recoloured from the gas plume
     - Icon for excimer gas, recoloured from the gas plume
+    - Icon for ozone, recoloured from the gas plume
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.5
 Date: 2026-10-01
