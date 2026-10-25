@@ -3,6 +3,9 @@ Version: 0.3.0
 Date: ????
   Changes:
     - Updated to Factorio 2.1. The port itself changed no picture; the 0.2 versions stay the ones for Factorio 2.0
+---------------------------------------------------------------------------------------------------
+Version: 0.2.6
+Date: 2026-10-17
   Graphics:
     - Sprite sheets and icon for the Lithography Machine, rendered from a new model, with a working light on its plasma windows, laser source and exposure line
     - Icons for the microchip, the laser source, cassiterite and tin plate, and the EUV Lithography technology icon
