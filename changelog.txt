@@ -4,6 +4,8 @@ Date: ????
   Graphics:
     - Sprite sheets and icon for the Isostatic Press, rendered from a new model, with the compressor's crossheads sliding and the chiller fan turning
     - Icons for cemented carbide and the Hot Isostatic Pressing technology
+    - Sprite sheets and icon for the Eddy Current Separator, rendered from a new model, with scrap riding the belt, the drum turning and the metal flying over the splitter
+    - Icons for e-waste and the Eddy Current Separation technology
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.0
 Date: 2026-10-25
