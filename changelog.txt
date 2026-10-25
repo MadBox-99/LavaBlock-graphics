@@ -6,6 +6,8 @@ Date: ????
     - Icons for cemented carbide and the Hot Isostatic Pressing technology
     - Sprite sheets and icon for the Eddy Current Separator, rendered from a new model, with scrap riding the belt, the drum turning and the metal flying over the splitter
     - Icons for e-waste and the Eddy Current Separation technology
+    - Sprite sheets and icon for the Bioleaching Reactor, rendered from a new model, with the liquor in both tanks turning and tinted by the recipe and the blower fan turning
+    - Icons for leaching bacteria, recoloured from Space Age's iron bacteria, and the Bioleaching technology
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.0
 Date: 2026-10-25
