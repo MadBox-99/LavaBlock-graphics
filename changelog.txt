@@ -8,6 +8,8 @@ Date: ????
     - Icons for e-waste and the Eddy Current Separation technology
     - Sprite sheets and icon for the Bioleaching Reactor, rendered from a new model, with the liquor in both tanks turning and tinted by the recipe and the blower fan turning
     - Icons for leaching bacteria, recoloured from Space Age's iron bacteria, and the Bioleaching technology
+    - Sprite sheets and icon for the Cell Assembly Line, rendered from a new model, with the winding head turning, cells riding the conveyor and the formation rack's charge lights
+    - Icons for NMC cathode, lithium-ion cells, lithium electrolyte and the Lithium-ion Cells technology
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.0
 Date: 2026-10-25
