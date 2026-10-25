@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.1
-Date: ????
+Date: 2026-10-25
   Graphics:
     - Sprite sheets and icon for the Isostatic Press, rendered from a new model, with the compressor's crossheads sliding and the chiller fan turning
     - Icons for cemented carbide and the Hot Isostatic Pressing technology
